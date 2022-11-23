@@ -2,3 +2,5 @@ name: action testm
 description: action test for tiddlywiki
 author: oeyoews
 branding: 
+  icon: 'message-circle'
+  color: 'red'
